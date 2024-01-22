@@ -6,3 +6,5 @@
 
 ## 👍 Reference URLs
 - [Blog posting & customizing](https://github.com/ansohxxn/ansohxxn.github.io)
+- [Paper review](https://github.com/wookee3/paper-review)
+- [Paper review](https://hyunsooworld.tistory.com/)
