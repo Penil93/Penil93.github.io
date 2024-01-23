@@ -9,11 +9,8 @@
 
   <h1>창완's Blog</h1>
 
-  <a href="mailto:k0611c@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/%EC%B0%BD%EC%99%84-%EA%B9%80-31252413b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://www.researchgate.net/profile/Chang-Won-Kim-3"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"/></a>&nbsp;
-
   <img src="assets/img/images/dev-jeans.png" width="100" height="auto" />
+  <br>
 
   <p>
   홈페이지를 만들고 싶은 뉴비의 리드미 페이지입니다!
@@ -39,3 +36,11 @@
 ## 완두랑 호두랑
 <img src="assets/img/images/wandu-and-hodu.jpeg" width="auto" height="auto" />
 <img src="assets/img/images/wandu-and-hodu2.jpeg" width="auto" height="auto" />
+
+---
+
+<h4>Contacts</h4>
+
+<a href="mailto:k0611c@gmail.com"><img src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/%EC%B0%BD%EC%99%84-%EA%B9%80-31252413b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Chang-Won-Kim-3"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"/></a>&nbsp;
