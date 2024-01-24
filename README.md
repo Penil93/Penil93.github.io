@@ -10,5 +10,6 @@
 
 ## 👍 참고 URLs
 - [블로그 포스팅과 커스터마이징](https://github.com/ansohxxn/ansohxxn.github.io)
+- [Chripy 테마 적용](https://www.irgroup.org/posts/jekyll-chirpy/)
 - [논문 리뷰(wookee3)](https://github.com/wookee3/paper-review)
 - [논문 리뷰(hyunsooworld)](https://hyunsooworld.tistory.com/)
