@@ -1,52 +1,55 @@
-<div align="right">
-
-<a href = "https://github.com/Penil93/blog/blob/main/docs/README.en.md"><img src = "https://img.shields.io/badge/lang-한-red.svg"/></a>&nbsp;
-<a href = "https://github.com/Penil93/blog/blob/main/docs/README.md"><img src = "https://img.shields.io/badge/lang-En-blue.svg"/></a>&nbsp;
-
-</div>
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 <div align="center">
 
-  <h1>창완's Blog</h1>
+  <h1>Chang Won's Blog</h1>
 
   <img src="assets/img/images/dev-jeans.png" width="100" height="auto" />
   <br>
 
-  - [홈페이지](https://penil93.github.io/blog/)
+  - [Homepage](https://penil93.github.io/blog/)
   - [GitHub](https://github.com/Penil93/blog)
+  
+</div>
 
-  <p>
-  홈페이지를 만들고 싶은 뉴비의 리드미 페이지입니다!
-  </p>
+<p>
+This is noobie's blog who want to make own homepage or blog.<br>
+I am planning to review AI (ML) papers, engage in Computer Science studies (or coding), and gain some kind of experience to implement ML on this site.
+</p>
+
+<div align="center">
 
   <a href="https://penil93.github.io/blog/">Live Blog</a>
 
 </div>
 
-## 블로그 기본 테마
-- **Chripy** [소스코드](https://github.com/cotes2020/jekyll-theme-chirpy)
-  > GitHub Actions 실패로 인해 보류
+## Blog Base Theme
+- **Chripy** [Source Code](https://github.com/cotes2020/jekyll-theme-chirpy)
+  > Apply hold cuase of GitHub Actions failed
 
-## 👍 참고 URLs
-- [블로그 포스팅과 커스터마이징](https://github.com/ansohxxn/ansohxxn.github.io)
-- [Chripy 테마 적용](https://www.irgroup.org/posts/jekyll-chirpy/)
-- [논문 리뷰(wookee3)](https://github.com/wookee3/paper-review)
-- [논문 리뷰(hyunsooworld)](https://hyunsooworld.tistory.com/)
+## 👍 Reference URLs
+- [Blog posting & customizing](https://github.com/ansohxxn/ansohxxn.github.io)
+- [Paper review(KR, wookee3)](https://github.com/wookee3/paper-review)
+- [Paper review(KR, hyunsooworld)](https://hyunsooworld.tistory.com/)
 
 ---
 
-그리고 우리집 고양이 사진을 즐기세요!
+And enjoy our **CUTE** cats pictures!
 <a href="https://emoji.gg/emoji/6876_BlobCatLove"><img src="https://cdn3.emoji.gg/emojis/6876_BlobCatLove.png" width="26px" height="auto" alt="BlobCatLove"></a>
 
-## 완두
+## Wandu
 <img src="assets/img/images/wandu.jpeg" width="auto" height="auto" />
 <img src="assets/img/images/wandu2.jpeg" width="auto" height="auto" />
 
-## 호두
+## Hodu
 <img src="assets/img/images/hodu.jpeg" width="auto" height="auto" />
 <img src="assets/img/images/hodu2.jpeg" width="auto" height="auto" />
 
-## 완두랑 호두랑
+## Wandu and Hodu
 <img src="assets/img/images/wandu-and-hodu.jpeg" width="auto" height="auto" />
 <img src="assets/img/images/wandu-and-hodu2.jpeg" width="auto" height="auto" />
 
