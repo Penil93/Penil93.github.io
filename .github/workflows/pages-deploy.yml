@@ -27,9 +27,11 @@ jobs:
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
+        working-directory: ${{ env.working-directory }}
         with:
           ruby-version: 3.1
           bundler-cache: true
 
       - name: Deploy
-        run: bash docs/tools/deploy.sh
+        run: bash tools/deploy.sh
+        working-directory: ${{ env.working-directory }}
