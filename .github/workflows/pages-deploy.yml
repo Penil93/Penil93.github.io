@@ -31,6 +31,10 @@ jobs:
           ruby-version: 3.1
           bundler-cache: true
 
+      - name: Bundle Install
+        run: bundle install
+        working-directory: ${{ env.working-directory }}
+
       - name: Deploy
         run: bash tools/deploy.sh
         working-directory: ${{ env.working-directory }}
