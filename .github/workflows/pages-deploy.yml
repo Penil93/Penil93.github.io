@@ -8,14 +8,16 @@ on:
       - README.md
       - LICENSE
 
-defaults:
- run:
-  working-directory: ./docs
+# defaults:
+#  run:
+#   working-directory: ./docs
 
 jobs:
   continuous-delivery:
 
     runs-on: ubuntu-latest
+    env:
+      working-directory: ./docs
 
     steps:
       - name: Checkout
