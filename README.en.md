@@ -11,6 +11,9 @@
 
   <img src="assets/img/images/dev-jeans.png" width="100" height="auto" />
   <br>
+
+  - [Homepage](https://penil93.github.io/blog/)
+  - [GitHub](https://github.com/Penil93/blog)
   
 </div>
 
@@ -24,6 +27,15 @@ I am planning to review AI (ML) papers, engage in Computer Science studies (or c
   <a href="https://penil93.github.io/blog/">Live Blog</a>
 
 </div>
+
+## Blog Base Theme
+- **Chripy** [Source Code](https://github.com/cotes2020/jekyll-theme-chirpy)
+  > Apply hold cuase of GitHub Actions failed
+
+## 👍 Reference URLs
+- [Blog posting & customizing](https://github.com/ansohxxn/ansohxxn.github.io)
+- [Paper review(KR, wookee3)](https://github.com/wookee3/paper-review)
+- [Paper review(KR, hyunsooworld)](https://hyunsooworld.tistory.com/)
 
 ---
 
