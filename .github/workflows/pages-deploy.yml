@@ -32,4 +32,4 @@ jobs:
           bundler-cache: true
 
       - name: Deploy
-        run: bash tools/deploy.sh
+        run: bash docs/tools/deploy.sh
